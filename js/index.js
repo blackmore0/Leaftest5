@@ -47,7 +47,7 @@ L.geoJson(bldgData, {
 });
 
 
-var gjFeatures = {
+/* var gjFeatures = {
   "type": "FeatureCollection",
   "features": [
     {
